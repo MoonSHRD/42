@@ -1,5 +1,5 @@
 
-[Moonshard at Github Pages ](https://moonshrd.github.io/42/)
+[Moonshard at Github Pages ](https://moonshrd.github.io/MoonSHRD.github.io/)
 
 
 # Мотивация
